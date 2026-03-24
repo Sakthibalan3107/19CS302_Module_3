@@ -1,5 +1,5 @@
 # EX 15 C program that reads a one-dimensional array of integers and replaces all even elements with 'E'.
-## DATE:
+
 ## AIM:
 To write a C program that reads a one-dimensional array of integers and replaces all even elements with 'E'.
 
